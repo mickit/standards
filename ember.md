@@ -32,7 +32,7 @@ CSS is permitted (and encouraged) in apps and addons under certain circumstances
 - Animations and Transitions
 
 **Use discretion when adding colors to apps/addons**
-* Neutral/non-branding colors that aren't likely change across websites are OKAY to add to that app's/addon's app styles
+* Neutral/non-branding colors that aren't likely to change across websites are OKAY to add to that app's/addon's app styles
 * Font family and line height are NOT okay to update in the app/addon styles
 * Talk to UX if there is any ambiguity
 
