@@ -32,9 +32,9 @@ CSS is permitted (and encouraged) in apps and addons under certain circumstances
 - Animations and Transitions
 
 **Use discretion when adding colors to apps/addons**
-* Neutral/non-branding colors that aren't likely to be changed across websites are OKAY to add to that app's/addon's app styles
+* Neutral/non-branding colors that aren't likely change across websites are OKAY to add to that app's/addon's app styles
 * Font family and line height are NOT okay to update in the app/addon styles
-* Talk to UX if there is any ambiguation
+* Talk to UX if there is any ambiguity
 
 ### Examples of Properties to NOT use
 - Site-specific Colors
@@ -51,6 +51,7 @@ CSS is permitted (and encouraged) in apps and addons under certain circumstances
   background: $color1;
 
   .chatMsg {
+	font-family: $font1,
     font-weight: 700;
     text-transform: uppercase;    
     background: $color2;
